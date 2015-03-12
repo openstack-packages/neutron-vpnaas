@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1371a2_799f4b04",
+        "filename": "openstack-neutron-vpnaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1003310
+      },
+      "writtenOn": "2015-03-12T15:22:21Z",
+      "side": 1,
+      "message": "looks good to me, just the same question as for the other patches:\nhttps://review.gerrithub.io/#/c/218558/1/openstack-neutron.spec",
+      "revId": "43f5b1ce3840e85b0463a6c40c8ccaf14c3d123d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
