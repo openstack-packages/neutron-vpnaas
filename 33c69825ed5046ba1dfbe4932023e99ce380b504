@@ -1,0 +1,7 @@
+Verified+1: Derek Higgins <derekh@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Mon, 30 Mar 2015 19:25:35 +0200
+Reviewed-on: https://review.gerrithub.io/221585
+Project: openstack-packages/neutron-vpnaas
+Branch: refs/heads/f20-master
