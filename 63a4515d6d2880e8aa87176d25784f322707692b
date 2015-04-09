@@ -22,6 +22,30 @@
       "revId": "63a4515d6d2880e8aa87176d25784f322707692b",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_001bf21b",
+        "filename": "openstack-neutron-vpnaas.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2015-04-09T10:05:48Z",
+      "side": 1,
+      "message": "That is the plan for Liberty. Too little time for the switch (that would need l3 agent switch too) in Kilo.",
+      "parentUuid": "1a106d94_40d16a56",
+      "range": {
+        "startLine": 107,
+        "startChar": 80,
+        "endLine": 107,
+        "endChar": 86
+      },
+      "revId": "63a4515d6d2880e8aa87176d25784f322707692b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
