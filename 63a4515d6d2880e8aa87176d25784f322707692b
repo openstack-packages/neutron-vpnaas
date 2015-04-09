@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_40d16a56",
+        "filename": "openstack-neutron-vpnaas.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003310
+      },
+      "writtenOn": "2015-04-09T09:36:56Z",
+      "side": 1,
+      "message": "conf.d/server? I will ping you via IRC :) I\u0027m repeating myself everywhere",
+      "range": {
+        "startLine": 107,
+        "startChar": 80,
+        "endLine": 107,
+        "endChar": 86
+      },
+      "revId": "63a4515d6d2880e8aa87176d25784f322707692b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
