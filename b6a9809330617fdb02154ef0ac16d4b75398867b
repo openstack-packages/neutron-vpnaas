@@ -1,0 +1,8 @@
+Code-Review+2: Miguel Ángel Ajo <mangelajo@redhat.com>
+Code-Review+2: Jakub Libosvar <jakub.libosvar@gmail.com>
+Verified+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-at: Mon, 08 Jun 2015 15:18:09 +0200
+Reviewed-on: https://review.gerrithub.io/235274
+Project: openstack-packages/neutron-vpnaas
+Branch: refs/heads/rpm-kilo
