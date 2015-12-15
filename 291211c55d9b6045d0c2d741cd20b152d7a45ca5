@@ -34,6 +34,24 @@
       "revId": "291211c55d9b6045d0c2d741cd20b152d7a45ca5",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac4a560_b5695c27",
+        "filename": "openstack-neutron-vpnaas.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003214
+      },
+      "writtenOn": "2015-12-15T13:25:49Z",
+      "side": 1,
+      "message": "s/resuire/require/ :)",
+      "parentUuid": "5ac4a560_558568ce",
+      "revId": "291211c55d9b6045d0c2d741cd20b152d7a45ca5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
