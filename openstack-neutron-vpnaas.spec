@@ -19,7 +19,7 @@ Provides:       openstack-neutron-vpn-agent = %{epoch}:%{version}-%{release}
 
 BuildArch:      noarch
 BuildRequires:  python2-devel
-BuildRequires:  python-neutron >= 1:%{version}
+BuildRequires:  python-neutron >= 1:8.0.0
 BuildRequires:  python-pbr
 BuildRequires:  python-setuptools
 BuildRequires:  systemd-units
@@ -35,7 +35,7 @@ This is a %{type} service plugin for Openstack Neutron (Networking) service.
 %package -n python-%{servicename}
 Summary:        Neutron %{type} Python libraries
 
-Requires:       python-neutron >= 1:%{version}
+Requires:       python-neutron >= 1:8.0.0
 Requires:       python-alembic
 Requires:       python-jinja2
 Requires:       python-netaddr >= 0.7.12
