@@ -35,7 +35,7 @@ This is a %{type} service plugin for Openstack Neutron (Networking) service.
 %package -n python-%{servicename}
 Summary:        Neutron %{type} Python libraries
 
-Requires:       python-neutron >= 1:%{version}
+Requires:       python-neutron >= 1:8.0.0
 Requires:       python-alembic
 Requires:       python-jinja2
 Requires:       python-netaddr >= 0.7.12
