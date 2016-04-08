@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_2da5a803",
+        "filename": "openstack-neutron-vpnaas.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-08T20:47:56Z",
+      "side": 1,
+      "message": "8.0.0 here",
+      "range": {
+        "startLine": 29,
+        "startChar": 39,
+        "endLine": 29,
+        "endChar": 49
+      },
+      "revId": "2b9b0075e04691ae531340f48c8fd1c269a303f8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
